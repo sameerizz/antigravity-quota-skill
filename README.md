@@ -7,9 +7,8 @@ An Agent Skill designed for the [skills.sh](https://skills.sh) ecosystem. This s
 To install this skill into your agent environment, run:
 
 ```bash
-npx skills add <your-github-username>/antigravity-quota-skill
+npx skills add sameerizz/antigravity-quota-skill
 ```
-*(Replace `<your-github-username>` with your actual GitHub username once published).*
 
 ## Contents
 - `SKILL.md`: The core instructions and API documentation for the AI agent.
